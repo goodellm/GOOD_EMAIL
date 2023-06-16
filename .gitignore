@@ -1,0 +1,9 @@
+# byte-compiled / generated files
+__pycache__/
+*.pyc
+
+# pyenv
+.python-version
+
+# venv
+.venv
